@@ -1,0 +1,47 @@
+15 Block : 
+
+1. <p>
+2. <h1>-<h6>
+3. <footer>
+4. <form>
+5. <header>
+6. <hr>
+7. <ul>
+8. <ol>
+9. <li>
+10. <main>
+11. <nav>
+12. <section>
+13. <table>
+14. <tfoot>
+15. <div>
+
+
+
+15 Inline :
+
+1. <a>
+2. <br>
+3. <span>
+4. <button>
+5. <input>
+6. <label>
+7. <select>
+8. <strong>
+9. <em>
+10. <i>
+11. <img>
+12. <script>
+13. <var>
+14. <code>
+15. <abbr>
+
+
+
+5 Embedded Elements : 
+
+1. <embed>
+2. 
+3. 
+4. 
+5. 
